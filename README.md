@@ -12,7 +12,7 @@
   * Technologies that correspond strongly with reporting and data analytics (R, python, and Power BI)  
     **Note:** Not so much the technologies, but the math/statistics piece and applications for them. More about solving problems than looking "smart".
 - 💞️ I’m looking to collaborate on ... not sure
-- 📫 How to reach me ... will provide loater
+- 📫 How to reach me ... will provide later
 
 <!---
 wcremeika/wcremeika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
